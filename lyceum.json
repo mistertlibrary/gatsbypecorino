@@ -1,0 +1,99 @@
+{
+  "lyceum": 1,
+  "title": "The Twenties Desk",
+  "description": "A research newsroom for The Great Gatsby: databases, search words, and trusted websites for six 1920s topics.",
+  "url": "https://mistertlibrary.github.io/gatsbypecorino/",
+  "series": "",
+  "course": "",
+  "subjects": [
+    "English Language Arts",
+    "Social Studies"
+  ],
+  "sections": [
+    {
+      "title": "Front Page",
+      "anchor": "#front",
+      "keywords": [
+        "The Great Gatsby",
+        "1920s"
+      ]
+    },
+    {
+      "title": "Library Databases",
+      "anchor": "#databases",
+      "keywords": [
+        "Britannica School",
+        "Pop Culture Universe",
+        "Explora"
+      ]
+    },
+    {
+      "title": "Pick Your Beat",
+      "anchor": "#beats",
+      "keywords": []
+    },
+    {
+      "title": "Prohibition",
+      "anchor": "#prohibition",
+      "keywords": [
+        "Prohibition",
+        "18th Amendment or Eighteenth Amendment",
+        "speakeasy"
+      ]
+    },
+    {
+      "title": "The Black Sox Scandal",
+      "anchor": "#blacksox",
+      "keywords": [
+        "Black Sox Scandal",
+        "1919 World Series",
+        "Shoeless Joe Jackson"
+      ]
+    },
+    {
+      "title": "1920s Cars and Henry Ford",
+      "anchor": "#cars",
+      "keywords": [
+        "Model T",
+        "Henry Ford",
+        "assembly line"
+      ]
+    },
+    {
+      "title": "1920s Music: Jazz and the Charleston",
+      "anchor": "#music",
+      "keywords": [
+        "jazz",
+        "Jazz Age",
+        "Charleston dance"
+      ]
+    },
+    {
+      "title": "The Tulsa Race Massacre (1921)",
+      "anchor": "#tulsa",
+      "keywords": [
+        "Tulsa Race Massacre",
+        "Tulsa race riot",
+        "Greenwood"
+      ]
+    },
+    {
+      "title": "The 19th Amendment: Women's Right to Vote",
+      "anchor": "#vote",
+      "keywords": [
+        "19th Amendment or Nineteenth Amendment",
+        "women's suffrage",
+        "suffragists"
+      ]
+    },
+    {
+      "title": "Reporter's Kit",
+      "anchor": "#kit",
+      "keywords": [
+        "MLA",
+        "keywords",
+        "source evaluation"
+      ]
+    }
+  ]
+}
